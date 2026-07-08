@@ -1,3 +1,4 @@
+![License](https://img.shields.io/github/license/LittleBeaverStudio/KingdeeDataAnalyzer?label=license)
 # 小河狸财报助手 Skill
 
 这是给本机智能体使用的“小河狸财报助手”数据读取 Skill。它通过小河狸财报助手提供的本机只读接口，查询已导入的公司、期间、财务报表、指标、趋势和本地问答结果。
